@@ -1,2 +1,5 @@
 # hello-world
-Just another repositary
+
+Hey all!
+
+I'm Karel and I like many things, including programming.
